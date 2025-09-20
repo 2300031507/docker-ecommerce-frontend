@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://18.234.35.175:8081/auth";
+const API_URL = "http://18.234.35.175:8081/api/products";
  // Backend API URL
 
 // Fetch products by category (computers, mobiles, laptops, pendrives, or all)
